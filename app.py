@@ -154,6 +154,24 @@ button {{
     margin-top: 12px;
 }}
 
+/* NEW: BIRTHDAY DATE */
+
+.birthday-date {{
+    font-family: 'DM Serif Display', serif;
+    font-size: 34px;
+    letter-spacing: 6px;
+    color: #B08D4F;
+    margin: 18px 0 5px;
+}}
+
+.date-year {{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 17px;
+    letter-spacing: 4px;
+    color: #8A8174;
+    margin-top: 2px;
+}}
+
 .gift {{
     font-size: 65px;
     margin: 30px 0 25px;
@@ -471,6 +489,16 @@ button {{
             is waiting for you...
         </div>
 
+        <!-- NEW: BIRTHDAY DATE -->
+
+        <div class="birthday-date">
+            24 SEPTEMBER
+        </div>
+
+        <div class="date-year">
+            2026
+        </div>
+
         <div class="gift">
             🎁
         </div>
@@ -516,6 +544,16 @@ button {{
 
         <div class="hero-small">
             TODAY IS YOUR SPECIAL DAY
+        </div>
+
+        <!-- NEW: BIRTHDAY DATE -->
+
+        <div class="birthday-date">
+            24 SEPTEMBER
+        </div>
+
+        <div class="date-year">
+            2026
         </div>
 
         <div class="gold-line"></div>
